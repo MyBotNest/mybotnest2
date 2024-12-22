@@ -1,7 +1,7 @@
 import React from 'react';
-import AnimatedBackground from './components/background/AnimatedBackground';
-import HeroSection from './components/HeroSection';
-import ServicesSection from './components/ServicesSection';
+import AnimatedBackground from './AnimatedBackground';
+import HeroSection from './HeroSection';
+import ServicesSection from './ServicesSection';
 
 function App() {
   return (
